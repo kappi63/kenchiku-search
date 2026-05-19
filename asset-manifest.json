@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kenchiku-search/static/css/main.1081b4a9.css",
-    "main.js": "/kenchiku-search/static/js/main.f7c98a8a.js",
+    "main.js": "/kenchiku-search/static/js/main.57b38c40.js",
     "static/js/453.bb7961bf.chunk.js": "/kenchiku-search/static/js/453.bb7961bf.chunk.js",
     "index.html": "/kenchiku-search/index.html",
     "main.1081b4a9.css.map": "/kenchiku-search/static/css/main.1081b4a9.css.map",
-    "main.f7c98a8a.js.map": "/kenchiku-search/static/js/main.f7c98a8a.js.map",
+    "main.57b38c40.js.map": "/kenchiku-search/static/js/main.57b38c40.js.map",
     "453.bb7961bf.chunk.js.map": "/kenchiku-search/static/js/453.bb7961bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1081b4a9.css",
-    "static/js/main.f7c98a8a.js"
+    "static/js/main.57b38c40.js"
   ]
 }
